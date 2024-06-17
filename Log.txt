@@ -3,6 +3,5 @@
 1st Project: Machine Readable Course Material 
 Restructure the PDF content to Course Format: Table of Contents Structure
 	 2nd Project: Essay Writing Course Project GCAP3056
-- 
-		
-
+---> Vue.js 
+Use of the github repo called Marker for Producing the .md files for PDF ( just same as the Smart-TextBook Project)
